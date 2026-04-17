@@ -36,7 +36,7 @@ Develop **interpretable customer segments** based on:
 
 ---
 
-## 🧪 Technical Pipeline
+## Technical Pipeline
 
 Raw Data → Merge → Feature Engineering → Clustering → Segment Profiling → Marketing Report
 
@@ -54,7 +54,7 @@ Raw Data → Merge → Feature Engineering → Clustering → Segment Profiling 
 
 ---
 
-📊 Results
+## Results
 
 Elbow method → optimal number of clusters
 2D/3D cluster visualizations
