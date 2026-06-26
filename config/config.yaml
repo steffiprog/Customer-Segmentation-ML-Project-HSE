@@ -1,1 +1,17 @@
+paths:
+  data_dir: "data"
+  figures_dir: "reports/figures"
+  raw_data_file: "users.6M0xxK.2024.public.csv"
+  cleaned_data_file: "cleaned_users_data.csv"
+  normalized_data_file: "normalized_data_for_clustering.csv"
+  features_list_file: "features_list.txt"
+  scaler_file: "scaler.pkl"
+  clustered_data_file: "clustered_users_data.csv"
+  best_model_file: "best_model.pkl"
 
+clustering:
+  n_clusters: 4
+
+model:
+  random_state: 42
+  test_size: 0.2
